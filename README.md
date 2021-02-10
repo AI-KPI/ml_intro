@@ -1,35 +1,34 @@
 # Основи машинного навчання
 
-Цей репозиторій містить реалізації базових алгоритмів машинного навчання на Python (версія Python 3.6+). Всі алгоритми реалізовані з нуля без використання додаткових бібліотек машинного навчання. Метою цих блокнотів є базове розуміння алгоритмів та їх базової структури, а *не* забезпечення найбільш ефективних реалізацій. 
+Цей репозиторій містить реалізації базових алгоритмів машинного навчання на Python (версія Python 3.6+). Всі алгоритми реалізовані з нуля без використання додаткових бібліотек машинного навчання. Метою цих блокнотів є базове розуміння алгоритмів та їх базової структури, а **Не** забезпечення найбільш ефективних реалізацій. 
 
 - [Лінійна регресія](linear_regression.ipynb)
-- [Logistic Regression](logistic_regression.ipynb)
+- [Логістична регресія](logistic_regression.ipynb)
 - [Перцептрон](perceptron.ipynb)
-- [k-nearest-neighbor](k_nearest_neighbour.ipynb)
-- [k-Means clustering](kmeans.ipynb)
-- [Simple neural network with one hidden layer](simple_neural_net.ipynb)
-- [Multinomial Logistic Regression](softmax_regression.ipynb)
-- [Decision tree for classification](decision_tree_classification.ipynb)
-- [Decision tree for regression](decision_tree_regression.ipynb)
+- [k-найближчих сусідів](k_nearest_neighbour.ipynb)
+- [Кластеризація методом к–середніх](kmeans.ipynb)
+- [Проста нейронна мережа з одним прихованим шаром ](simple_neural_net.ipynb)
+- [Поліноміальна логістична регресія](softmax_regression.ipynb)
+- [Дерево рішень для класифікації (decision_tree_classification.ipynb)
+- [Дерево рішень для регресії](decision_tree_regression.ipynb)
   
   
 ![alt text](figures/decision_tree_predictions.png)
 
 
-## Data preprocessing
+## Попередня обробка даних 
+ 
 
-After several requests I started preparing notebooks on how to preprocess datasets for machine learning. Within the next months I will add one notebook for each kind of dataset (text, images, ...). As before, the intention of these notebooks is to provide a basic understanding of the preprocessing steps, *not* to provide the most efficient implementations. 
-
-- [Image preprocessing](image_preprocessing.ipynb)
+- [Попередня обробка зображень](image_preprocessing.ipynb)
 - [Попередня обробка числового / категоріального набору даних ](data_preprocessing.ipynb)
 
 ![alt text](figures/image_preprocessing.png)
 
 
-## Feedback
+## Зворотній зв'язок 
 
-If you have a favorite algorithm that should be included or spot a mistake in one of the notebooks, please let me know by creating a new issue.
+Якщо Ви виявили помилку/помилки в одному із блокнотів, дайте мені знати, створивши нове issue. 
 
-## License
+## Джерело
 
-See the LICENSE file for license rights and limitations (MIT).
+[Machine learning basics](https://github.com/zotroneneis/machine_learning_basics)
