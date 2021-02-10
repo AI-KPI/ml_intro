@@ -9,7 +9,7 @@
 - [Кластеризація методом к–середніх](kmeans.ipynb)
 - [Проста нейронна мережа з одним прихованим шаром ](simple_neural_net.ipynb)
 - [Поліноміальна логістична регресія](softmax_regression.ipynb)
-- [Дерево рішень для класифікації (decision_tree_classification.ipynb)
+- [Дерево рішень для класифікації](decision_tree_classification.ipynb)
 - [Дерево рішень для регресії](decision_tree_regression.ipynb)
   
   
