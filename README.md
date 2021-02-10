@@ -1,8 +1,8 @@
-# Machine learning basics
+# Основи машинного навчання
 
-This repository contains implementations of basic machine learning algorithms in plain Python (Python Version 3.6+). All algorithms are implemented from scratch without using additional machine learning libraries. The intention of these notebooks is to provide a basic understanding of the algorithms and their underlying structure, *not* to provide the most efficient implementations. 
+Цей репозиторій містить реалізації базових алгоритмів машинного навчання на Python (версія Python 3.6+). Всі алгоритми реалізовані з нуля без використання додаткових бібліотек машинного навчання. Метою цих блокнотів є базове розуміння алгоритмів та їх базової структури, а не * забезпечення найбільш ефективних реалізацій. 
 
-- [Linear Regression](linear_regression.ipynb)
+- [Лінійна регресія](linear_regression.ipynb)
 - [Logistic Regression](logistic_regression.ipynb)
 - [Perceptron](perceptron.ipynb)
 - [k-nearest-neighbor](k_nearest_neighbour.ipynb)
